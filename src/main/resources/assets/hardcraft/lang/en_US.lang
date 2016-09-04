@@ -1,0 +1,15 @@
+# Items
+item.ingotCopper.name=Copper Ingot
+
+item.ingotNether.name=Nether Ingot
+item.netherSword.name=Nether Sword
+item.netherPickaxe.name=Nether Pickaxe
+item.netherAxe.name=Nether Axe
+item.netherShovel.name=Nether Shovel
+item.netherHoe.name=Nether Hoe
+
+# Blocks
+tile.oreCopper.name=Copper Ore
+
+# Creative Tab Name
+itemGroup.hardcraft=HardCraft

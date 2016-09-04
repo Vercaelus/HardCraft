@@ -1,0 +1,17 @@
+[
+{
+  "modid": "hardcraft",
+  "name": "HardCraft",
+  "description": " A humble mod that aims to increase the difficulty, complexity and satisfaction of the vanilla Minecraft experience.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vercaelus"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "mod_MinecraftForge"
+  ]
+}
+]
